@@ -7,6 +7,6 @@
 	
 	function srednia_wazona (a, b)
 	{
-		return 0.1*a + 0.9 *b;
+		return 0.25*a + 0.75 *b;
 	}
 ?>
